@@ -1,2 +1,2 @@
-# ruby_project
+# Ruby Project
 A new project using Ruby
